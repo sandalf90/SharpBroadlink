@@ -38,6 +38,7 @@ namespace SharpBroadlink.Devices
                         0x2783,  // RM2 Home Plus
                         0x277c,  // RM2 Home Plus GDT
                         0x278f,  // RM Mini Shate
+                        0x5216,  // RM4 Mini
                     }
                 },
                 { "Rm2Pro", new int[]
