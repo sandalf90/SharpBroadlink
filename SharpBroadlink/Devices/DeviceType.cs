@@ -34,7 +34,7 @@ namespace SharpBroadlink.Devices
         /// </summary>
         /// <remarks>
         /// RM2, RM Mini, RM Pro Phicomm, RM2 Home Plus, RM2 Home Plus GDT,
-        /// RM Mini Shate
+        /// RM Mini Shate, RM4 Mini
         /// </remarks>
         Rm = 3,
 
